@@ -1,0 +1,18 @@
+# _data/generic_noob.yml
+
+name: Generic Noob
+uname: generic_noob
+id: 2
+set: 0
+description: Just a generic noob
+packs:
+- Common Pack
+- Rare Pack
+- Set0 Pack
+- Roblox Set Pack
+tags:
+- Roblox
+- Noob
+- Set0
+price: 10.00
+link: https://card-bot.github.io/assets/set0/genericNoob.png
